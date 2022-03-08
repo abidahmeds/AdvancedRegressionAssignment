@@ -19,9 +19,9 @@ Based on various data collection techniques , the firm surpise housing has gathe
 
 
 ## Conclusions
-1 Inferences of the Exploratory Data analysis on the dataset including data cleaning, outliers handling , null handling and data transformation.
-2 Model coeefficients and summary parameters of the final selected model using RFE for feature elimination , Linear regression and improvization of model R2 and accuracy by doing ViF analysis , bringing down some more parameters by gridsearch cross validation , and finally regularization using Ridge and Lasso to identify best of alpha parameter for either of them.
-3 Useful charts and plots for the analysis done.
+-1 Inferences of the Exploratory Data analysis on the dataset including data cleaning, outliers handling , null handling and data transformation.
+-2 Model coeefficients and summary parameters of the final selected model using RFE for feature elimination , Linear regression and improvization of model R2 and accuracy by doing ViF analysis , bringing down some more parameters by gridsearch cross validation , and finally regularization using Ridge and Lasso to identify best of alpha parameter for either of them.
+-3 Useful charts and plots for the analysis done.
 
 
 ## Technologies Used
